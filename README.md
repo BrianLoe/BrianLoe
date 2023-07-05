@@ -9,13 +9,13 @@
     <img src="https://img.shields.io/badge/Tableau-6782A8?logo=tableau&style=for-the-badge" alt="Tableau Badge"/>
   </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=BrianLoe&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=brianloe&style=flat-square&color=blue" alt=""/>
   <h3>Hi There 👋</h3>
 </div>
 
 <div id="about-me" align="left">
   <h3>A little bit about myself</h3>
-  <p>My name is Brian, I recently graduated with Bachelor of IT majoring in Data Science. High curiosity enabled me to be hungry for learning and wanting to explore new opportunities. My goal is to continuously improve and always ask if current solutions applied are the best. I am currently seeking an entry level role data analyst/scientist opportunities in Sydney</p>
+  <p>My name is Brian, I recently graduated with Bachelor of IT majoring in Data Science. High curiosity enabled me to be hungry for learning and wanting to explore new opportunities. My goal is to continuously improve and always ask if current solutions applied are the best. I am currently seeking an entry level role data analyst/scientist opportunities in Sydney. Please check out my project repositories below! 😃</p>
   
   - :telescope: I'm currently working on Kaggle playground competition. Otherwise, I usually work on projects using ETL tools, create visualisations using BI 
                 tools, and build machine learning models.
