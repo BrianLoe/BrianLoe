@@ -17,10 +17,10 @@
   <h3>A little bit about myself</h3>
   <p>My name is Brian, I recently graduated with Bachelor of IT majoring in Data Science. High curiosity enabled me to be hungry for learning and wanting to explore new opportunities. My goal is to continuously improve and always ask if current solutions applied are the best. I am currently seeking an entry level role data analyst/scientist opportunities in Sydney. Please check out my project repositories below! 😃</p>
   
-  - :telescope: I'm currently working on Kaggle playground competition. Otherwise, I usually work on projects using ETL tools, create visualisations using BI 
-                tools, and build machine learning models.
-  - :seedling: I'm currently learning data engineering concepts and deep learning with PyTorch. 
-  - :mailbox: How to reach me: **brianloe7@gmail.com** or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([your-linkedin-url](https://www.linkedin.com/in/brian-loe/))
+  - :telescope: Currently working on Kaggle playground competition. Otherwise, I usually work on projects using ETL tools, create visualisations using BI 
+                tools, build machine learning models, and some fun programming using webscraping frameworks.
+  - :seedling: I'm learning data engineering concepts and deep learning with PyTorch. I also love to explore and apply statistical techniques for data analysis.
+  - :mailbox: You can reach me on: **brianloe7@gmail.com** or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([your-linkedin-url](https://www.linkedin.com/in/brian-loe/))
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,13 +28,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 
 </p>
-
-<div id="banner" align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianloe&show_icons=true&locale=en&layout=compact" alt="brianloe" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianloe&" alt="brianloe" /></p>
-</div>
-
-
 <!--
 **BrianLoe/BrianLoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
