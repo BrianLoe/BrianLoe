@@ -17,8 +17,9 @@
   <h3>A little bit about myself</h3>
   <p>My name is Brian, I recently graduated with Bachelor of IT majoring in Data Science. High curiosity enabled me to be hungry for learning and wanting to explore new opportunities. My goal is to continuously improve and always ask if current solutions applied are the best. I am currently seeking an entry level role data analyst/scientist opportunities in Sydney. Please check out my project repositories below! 😃</p>
   
-  - :telescope: Currently working on Kaggle playground competition. Otherwise, I usually work on projects using ETL tools, create visualisations using BI 
-                tools, build machine learning models, and some fun programming using webscraping frameworks.
+  - :telescope: Currently working on Kaggle playground competition and diving deeper into deep learning concepts for generative AI.  
+
+      Otherwise, I usually work on projects using ETL tools, create visualisations using BI tools, build machine learning models, and do some fun programming such as webscraping.
   - :seedling: I'm learning data engineering concepts and deep learning with PyTorch. I also love to explore and apply statistical techniques for data analysis.
   - :mailbox: You can reach me on: **brianloe7@gmail.com** or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([your-linkedin-url](https://www.linkedin.com/in/brian-loe/))
 </div>
