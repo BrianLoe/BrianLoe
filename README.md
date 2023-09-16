@@ -15,7 +15,7 @@
 
 <div id="about-me" align="left">
   <h3>A little bit about myself</h3>
-  <p>My name is Brian, I recently graduated with Bachelor of IT majoring in Data Science. I take pride in my ability to identify trends and patterns within data. I specialised in developing machine learning models and building data pipelines. I am currently seeking an entry level role data analyst/scientist opportunities in Sydney. Please check out my project repositories below! 😃</p>
+  <p>My name is Brian, I recently graduated with Bachelor of IT majoring in Data Science. I take pride in my ability to identify trends and patterns within data. I specialised in developing machine learning models and building data pipelines. I am currently seeking an entry-level role data scientist and machine learning engineer opportunities in Sydney. Please check out my project repositories below! 😃</p>
   
   - :telescope: Currently working on Kaggle playground competition and diving deeper into deep learning concepts for generative AI.  
 
