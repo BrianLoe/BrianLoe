@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Tableau-6782A8?logo=tableau&style=for-the-badge" alt="Tableau Badge"/>
   </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=brianloe&style=flat-square&color=blue" alt=""/>
   <h3>Hi There 👋</h3>
 </div>
 
