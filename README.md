@@ -14,12 +14,12 @@
 
 <div id="about-me" align="left">
   <h3>A little bit about myself</h3>
-  <p>My name is Brian, I recently graduated with Bachelor of IT majoring in Data Science. I take pride in my ability to identify trends and patterns within data. I specialised in developing machine learning models and building data pipelines. I am currently seeking an entry-level role data scientist and machine learning engineer opportunities in Sydney. Please check out my project repositories below! 😃</p>
+  <p>My name is Brian, I recently graduated with a Bachelor of IT majoring in Data Science. I take pride in my ability to identify trends and patterns within data. I specialised in developing machine learning models and building data pipelines. I am seeking entry-level roles in data scientist, analyst, and engineer opportunities in Sydney. Please check out my project repositories below! 😃</p>
   
   - :telescope: Currently working on Kaggle playground competition and diving deeper into deep learning concepts for generative AI.  
 
-      Otherwise, I usually work on projects using ETL tools, create visualisations using BI tools, build machine learning models, and do some fun programming such as webscraping.
-  - :seedling: I'm learning data engineering concepts and deep learning with Keras. I also love to learn about statistical techniques and concepts for data analysis.
+      Otherwise, I usually work on projects using ETL tools, create visualisations using BI tools, build machine learning models, and do some fun programming such as webscraping, web app.
+  - :seedling: I'm learning data engineering concepts and deep learning with PyTorch. I also love to learn about statistical techniques and concepts for data analysis.
   - :mailbox: You can reach me on: **brianloe7@gmail.com** or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([your-linkedin-url](https://www.linkedin.com/in/brian-loe/))
 </div>
 
