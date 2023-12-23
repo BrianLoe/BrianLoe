@@ -17,11 +17,13 @@
 
 <div id="about-me" align="left">
   <h3>A little bit about myself</h3>
-  <p>My name is Brian, I graduated with a Bachelor of IT majoring in Data Science. I love to create programs and am committed to learning new tech. I specialise in building ETL/data pipelines and building ML models. Skilled in Deep Learning Frameworks (Stack: NLP-models, Embeddings, Ensemble, Transformers, Sk-Learn, Keras, PyTorch), databases: PostgreSQL, MySQL, Oracle, MongoDB, familiarity with AWS, GCP. These are limited stacks that I am currently skilled at but interested to learn more! I am seeking entry-level roles in data engineer, scientist, and analyst opportunities in Sydney. Please check out my project repositories below! 😃</p>
+  <p>My name is Brian, I graduated with a Bachelor of IT majoring in Data Science. I love to create programs and am committed to learning new tech. I specialise in building ETL/data pipelines and building ML models.</p>
+   <p>Skilled in Deep Learning Frameworks (Stack: NLP-models, Embeddings, Ensemble, Transformers, Sk-Learn, Keras, PyTorch), databases: PostgreSQL, MySQL, Oracle, MongoDB, familiarity with AWS, GCP. These are limited stacks that I am currently skilled at but interested to learn more! I am seeking entry-level roles in data engineer, scientist, and analyst opportunities in Sydney. </p>
+     <p>Please check out my project repositories below! 😃</p>
   
   - 🔭 Passionate about data and engineering! I highly value a user-centric approach when developing products. This allows me to create a product that is beneficial to the customers and the business.
   - 🌱 I'm learning data engineering concepts and deep learning techniques. I also love to learn about statistical techniques and concepts for data analysis and mining. Currently I took an interest in web development + building the data pipeline for it.
-  - 📫 You can reach me on: **brianloe7@gmail.com** or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([your-linkedin-url](https://www.linkedin.com/in/brian-loe/))
+  - 📫 You can reach me on: **brianloe7@gmail.com** or [LinkedIn](https://www.linkedin.com/in/brian-loe/)
 </div>
 
 <h3 align="left">Programming Languages and Tools:</h3>
